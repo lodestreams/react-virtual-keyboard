@@ -1,6 +1,6 @@
 {
   "name": "@lodestream/react-virtual-keyboard",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Use jQuery Virtual Keyboard in react.js",
   "main": "dist/Keyboard.js",
   "scripts": {
