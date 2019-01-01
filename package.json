@@ -1,6 +1,6 @@
 {
-  "name": "react-virtual-keyboard",
-  "version": "1.0.2",
+  "name": "@lodestream/react-virtual-keyboard",
+  "version": "1.0.3",
   "description": "Use jQuery Virtual Keyboard in react.js",
   "main": "dist/Keyboard.js",
   "scripts": {
@@ -12,7 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Utzel-Butzel/react-virtual-keyboard.git"
+    "url": "https://github.com/lodestreams/react-virtual-keyboard.git"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm-registry.lodestreams.com"
   },
   "keywords": [
     "react",
